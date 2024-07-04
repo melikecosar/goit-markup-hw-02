@@ -1,0 +1,31 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: white;
+color:black;
+}
+
+.container{
+  width: 1158px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.home-navbar{
+  background-color: white;
+}
+
+.logo{
+  color: #4D5AE5;
+}
+
+.span{
+  color: black;
+}
+
+.border-alt{
+  border-bottom: 1px solid #e7e9fc;
+
+}
+
